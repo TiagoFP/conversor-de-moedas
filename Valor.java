@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public record Valor() {
+public record Valor(double valor) {
 }
