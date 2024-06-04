@@ -26,31 +26,31 @@ public class Principal {
                 c.moeda = "USD";
                 break;
             case 2:
-                c.moeda = "EUR";
+                c.moeda = "CAD";
                 break;
             case 3:
-                c.moeda = "USD";
+                c.moeda = "EUR";
                 break;
             case 4:
-                c.moeda = "USD";
+                c.moeda = "GBP";
                 break;
             case 5:
-                c.moeda = "USD";
+                c.moeda = "CHF";
                 break;
             case 6:
-                c.moeda = "USD";
+                c.moeda = "UYU";
                 break;
             case 7:
-                c.moeda = "USD";
+                c.moeda = "ARS";
                 break;
             case 8:
-                c.moeda = "USD";
+                c.moeda = "THB";
                 break;
             case 9:
-                c.moeda = "USD";
+                c.moeda = "JPY";
                 break;
             case 10:
-                c.moeda = "USD";
+                c.moeda = "CNY";
                 break;
         }
         System.out.print("Digite um valor em BRL: R$");
